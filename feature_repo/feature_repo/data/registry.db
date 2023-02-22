@@ -1,2 +1,34 @@
-1"$dc2a61ee-776f-4345-b663-6c462da88047*÷ÍŸ°ñ²^z4
+
+=
+
+iris"iris_idJfeature_repo
+Ô©ÓŸøî¤‡Ô©ÓŸøî¤‡
+C
+#
+__dummy"
+__dummy_idJfeature_repo
+Ô©ÓŸÕª‡Ô©ÓŸÕª‡1"$4a352d91-7b35-4d0c-876f-84965dc0a3a4*ğÓØŸ€×‰š2
+ì
+iris_stats_fvfeature_repoiris"
+sepal_length_cm"
+sepal_width_cm"
+petal_length_cm"
+petal_width_cm"
+
+target2€£:Óevent_timestampZvt/home/sbalawajder/projects/train/feast-mlflow/feast-mlflow-project/feature_repo/feature_repo/data/iris_stats.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢iris_stats_source@b
+iris_id
+Á±ÓŸá§İÁ±ÓŸá§İ:«
+Œ
+iris_stats_fsfeature_repom
+iris_stats_fv
+sepal_length_cm
+sepal_width_cm
+petal_length_cm
+petal_width_cm
+
+target
+©¬ÓŸÈÌø<©¬ÓŸÈÌø<RÃ
+À
+,feast.infra.online_stores.sqlite.SqliteTable"
+q/home/sbalawajder/projects/train/feast-mlflow/feast-mlflow-project/feature_repo/feature_repo/data/online_store.dbfeature_repo_iris_stats_fvbâevent_timestampZvt/home/sbalawajder/projects/train/feast-mlflow/feast-mlflow-project/feature_repo/feature_repo/data/iris_stats.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢iris_stats_sourceªfeature_repoz4
 feature_repo$5816159e-526a-4aa4-b40f-b35883a73f47
