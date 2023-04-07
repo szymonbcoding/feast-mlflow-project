@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sbalawajder/projects/train/feast-mlflow/feast-mlflow-project/mlruns/0/21ec6291f496457d8b1be1444db331ec/artifacts
+end_time: 1680867324115
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 21ec6291f496457d8b1be1444db331ec
+run_name: marvelous-dog-806
+run_uuid: 21ec6291f496457d8b1be1444db331ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680867323040
+status: 3
+tags: []
+user_id: sbalawajder

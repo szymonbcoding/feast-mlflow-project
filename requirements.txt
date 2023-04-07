@@ -1,3 +1,4 @@
 fastparquet==2023.2.0
 feast==0.29.0
 mlflow==2.1.1
+typeguard==2.13.3
